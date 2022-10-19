@@ -1,0 +1,142 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem{TCC}
+\abntrefinfo{Perun e Ramassamy}{PERUN; RAMASSAMY}{2017}
+{PERUN, R.; RAMASSAMY, K.~H.
+\emph{Sistema de comunicação sem fio 60 GHz usando transceptores comerciais}.
+Monografia (Trabalho de Conclusão de Curso) --- Universidade de São Paulo,
+  São Paulo, 2017.}
+
+\bibitem{8567053}
+\abntrefinfo{Seker, Güneser e Ozturk}{SEKER; GüNESER; OZTURK}{2018}
+{SEKER, C.; GüNESER, M.~T.; OZTURK, T. A review of millimeter wave
+  communication for 5g. In:  \emph{2018 2nd International Symposium on
+  Multidisciplinary Studies and Innovative Technologies (ISMSIT)}. [S.l.:
+  s.n.], 2018. p.~1--5.}
+
+\bibitem{ichkov2017potentials}
+\abntrefinfo{Ichkov, Atanasovski e Gavrilovska}{ICHKOV; ATANASOVSKI;
+  GAVRILOVSKA}{2017}
+{ICHKOV, A.; ATANASOVSKI, V.; GAVRILOVSKA, L. Potentials for application of
+  millimeter wave communications in cellular networks.
+\emph{Wireless personal communications}, Springer, v.~92, n.~1, p. 279--295,
+  2017.}
+
+\bibitem{7398126}
+\abntrefinfo{Choi et al.}{CHOI et al.}{2016}
+{CHOI, M. et al. Link adaptation for high-quality uncompressed video streaming
+  in 60-ghz wireless networks.
+\emph{IEEE Transactions on Multimedia}, v.~18, n.~4, p. 627--642, 2016.}
+
+\bibitem{7010539}
+\abntrefinfo{Wu et al.}{WU et al.}{2015}
+{WU, D. et al. Millimeter-wave multimedia communications: challenges,
+  methodology, and applications.
+\emph{IEEE Communications Magazine}, v.~53, n.~1, p. 232--238, 2015.}
+
+\bibitem{Peraso}
+\abntrefinfo{Peraso}{PERASO}{s.d.}
+{PERASO. \emph{MMWAVE 60GHz CHIPSET PRODUCTS}.
+[S.l.], s.d. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://perasoinc.com/60ghz-hardware/}.}
+
+\bibitem{gotmica}
+\abntrefinfo{GotMIC}{GOTMIC}{2017}
+{GOTMIC. \emph{gTSC0020 B V-band TX MMIC 57 - 66 (52 – 72) GHz}.
+Göteborg, 2017. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.gotmic.se/documents/gTSC0020B\_Rev\%20A01-17.pdf}.}
+
+\bibitem{pasternack}
+\abntrefinfo{Pasternack}{PASTERNACK}{s.d.}
+{PASTERNACK. \emph{60 GHz Transmitter/Receiver Waveguide Modules}.
+Irvine, s.d. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.pasternack.com/pages/Featured\_Products/60-GHz-Transmitter-Receiver-Waveguide-Modules.html}.}
+
+\bibitem{infineon}
+\abntrefinfo{Infineon}{INFINEON}{2013}
+{INFINEON. \emph{Infineon rounds off the Backhaul Family with a packaged RF
+  Solution for V-band Radio}.
+Neubiberg, 2013. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.infineon.com/dgdl/BGT60\_PB.pdf?fileId=db3a30433de4e67f013df36a708267ac}.}
+
+\bibitem{tensorcom}
+\abntrefinfo{Tensorcom}{TENSORCOM}{s.d.}
+{TENSORCOM. \emph{Our Products}.
+Solana Beach, s.d. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://tensorcom.com/products/}.}
+
+\bibitem{hmc6300}
+\abntrefinfo{Devices}{DEVICES}{2016-2017}
+{DEVICES, A. \emph{HMC6300: 60 GHz Millimeterwave Transmitter, 57 GHz to 64
+  GHz}.
+[S.l.], 2016--2017. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.analog.com/media/en/technical-documentation/data-sheets/HMC6300.pdf}.}
+
+\bibitem{iogear}
+\abntrefinfo{IOGEAR}{IOGEAR}{s.d.}
+{IOGEAR. \emph{Ultra-Fast 60GHz Wireless 4K UHD Transmitter and Receiver Kit}.
+Irvine, s.d. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.iogear.com/product/GW4K30GH60/}.}
+
+\bibitem{tplink}
+\abntrefinfo{TP-Link}{TP-LINK}{s.d.}
+{TP-LINK. \emph{Talon AD7200 Multi-Band Wi-Fi Router}.
+Irvine, s.d. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.tp-link.com/us/home-networking/wifi-router/ad7200/}.}
+
+\bibitem{macdermid}
+\abntrefinfo{MacDermid}{MACDERMID}{s.d.}
+{MACDERMID. \emph{Electroless Copper}.
+Waterbury, s.d. Acessado em: 15 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.macdermidalpha.com/circuitry-solutions/products-processes/primary-metallization/electroless-copper}.}
+
+\bibitem{Zhu_2014}
+\abntrefinfo{Zhu et al.}{ZHU et al.}{2014}
+{ZHU, Q.~S. et al. Void-free copper filling of through silicon via by periodic
+  pulse reverse electrodeposition.
+\emph{Journal of The Electrochemical Society}, The Electrochemical Society,
+  v.~161, n.~5, p. D263--D268, 2014.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1149/2.073405jes}.}
+
+\bibitem{KMETEC20098598}
+\abntrefinfo{Kmetec et al.}{KMETEC et al.}{2009}
+{KMETEC, B. et al. High-speed energy efficient selective removal of large area
+  copper layer by laser induced delamination.
+\emph{Applied Surface Science}, v.~255, n.~20, p. 8598--8602, 2009.
+ISSN 0169-4332.
+Dispon{\'\i}vel em:
+  \url{https://www.sciencedirect.com/science/article/pii/S016943320900823X}.}
+
+\bibitem{1395844}
+\abntrefinfo{DeJean et al.}{DEJEAN et al.}{2005}
+{DEJEAN, G. et al. Liquid crystal polymer (lcp): a new organic material for the
+  development of multilayer dual-frequency/dual-polarization flexible antenna
+  arrays.
+\emph{IEEE Antennas and Wireless Propagation Letters}, v.~4, p. 22--26, 2005.}
+
+\bibitem{zhang2002processing}
+\abntrefinfo{Zhang et al.}{ZHANG et al.}{2002}
+{ZHANG, T. et al. The processing and assembly of liquid crystalline polymer
+  printed circuits. In:  INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING; 1999.
+  \emph{Proceedings-Spie the International Society for Optical Engineering}.
+  [S.l.], 2002. p.~1--9.}
+
+\bibitem{7478111}
+\abntrefinfo{C. et al.}{C. et al.}{2016}
+{C., H.~R. et al. Plasma-generated etchback to improve the via-reliability in
+  high-tg substrates used in multilayer pwbs for space electronic packaging.
+\emph{IEEE Transactions on Components, Packaging and Manufacturing Technology},
+  v.~6, n.~6, p. 926--932, 2016.}
+
+\bibitem{E4438C}
+\abntrefinfo{Technologies}{TECHNOLOGIES}{2019}
+{TECHNOLOGIES, A. \emph{Agilent E4438C ESG Vector Signal Generator}.
+[S.l.], 2019. Acessado em: 17 Jul. 2022. Dispon{\'\i}vel em:
+  \url{https://www.keysight.com/us/en/assets/7018-01039/data-sheets-archived/5988-4039.pdf}.}
+
+\end{thebibliography}
