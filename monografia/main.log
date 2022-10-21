@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.17)  17 OCT 2022 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.17)  19 OCT 2022 16:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -871,23 +871,23 @@ Package pdftex.def Info: ./images//heat.jpg  used on input line 74.
 <./images//functionalblockdiagram.PNG, id=69, 473.51906pt x 362.85562pt>
 File: ./images//functionalblockdiagram.PNG Graphic file (type png)
 <use ./images//functionalblockdiagram.PNG>
-Package pdftex.def Info: ./images//functionalblockdiagram.PNG  used on input line 159.
+Package pdftex.def Info: ./images//functionalblockdiagram.PNG  used on input line 163.
 (pdftex.def)             Requested size: 312.98033pt x 239.8398pt.
-<./images//E4438C.PNG, id=70, 529.98pt x 239.39438pt>
+ [11 <./images//functionalblockdiagram.PNG>]
+<./images//E4438C.PNG, id=74, 529.98pt x 239.39438pt>
 File: ./images//E4438C.PNG Graphic file (type png)
 <use ./images//E4438C.PNG>
-Package pdftex.def Info: ./images//E4438C.PNG  used on input line 178.
+Package pdftex.def Info: ./images//E4438C.PNG  used on input line 182.
 (pdftex.def)             Requested size: 312.98033pt x 141.3766pt.
- [11 <./images//functionalblockdiagram.PNG>]
 <./images//cronograma1.PNG, id=75, 637.63219pt x 423.83344pt>
 File: ./images//cronograma1.PNG Graphic file (type png)
 <use ./images//cronograma1.PNG>
-Package pdftex.def Info: ./images//cronograma1.PNG  used on input line 193.
+Package pdftex.def Info: ./images//cronograma1.PNG  used on input line 197.
 (pdftex.def)             Requested size: 426.79137pt x 283.68883pt.
 <./images//cronograma2.PNG, id=76, 1089.31969pt x 423.08063pt>
 File: ./images//cronograma2.PNG Graphic file (type png)
 <use ./images//cronograma2.PNG>
-Package pdftex.def Info: ./images//cronograma2.PNG  used on input line 204.
+Package pdftex.def Info: ./images//cronograma2.PNG  used on input line 208.
 (pdftex.def)             Requested size: 426.79137pt x 165.75609pt.
 ) [12 <./images//E4438C.PNG>] [13 <./images//cronograma1.PNG> <./images//cronograma2.PNG>] (./main.bbl [14
 
@@ -898,13 +898,13 @@ Package pdftex.def Info: ./images//cronograma2.PNG  used on input line 204.
 Here is how much of TeX's memory you used:
  18577 strings out of 475071
  379905 string characters out of 5782907
- 738290 words of memory out of 5000000
+ 739290 words of memory out of 5000000
  39571 multiletter control sequences out of 15000+600000
  493554 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,103p,1015b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (21 pages, 5691427 bytes).
+Output written on main.pdf (21 pages, 5691530 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
